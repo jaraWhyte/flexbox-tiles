@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vw;
+  height: 97vh;
+  background-color: rgb(247, 243, 243);
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(187, 197, 209);
+  height: 12vh;
+  width: 50vw;
+}
+
+.link {
+  height: 50px;
+  width: 20vw;
+  height: 12vh;
+  text-align: left;
+  border-right: 2px solid black;
+}
+
+.form {
+  color: yellow;
+  display: flex;
+  flex-direction: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 11vh;
+  width: 30vw;
+  align-items: right;
+}
+
+a:hover {
+  background-color: rgb(99, 212, 99);
+  cursor: default;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a.pointer {
+  cursor: progress;
+}
