@@ -1,0 +1,54 @@
+.overall {
+  background-color: rgb(228, 227, 227);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  height: 99vh;
+  width: 99vw;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(228, 227, 227);
+  height: 30vh;
+  max-height: 30vh;
+  width: 99vw;
+}
+
+.ool {
+  background-color: rgb(161,203,250);
+  height: 30vh;
+  max-height: 30vh;
+  width: 32vw;
+  border-radius: 5px;
+}
+
+.mid {
+  background-color: rgb(161,203,250);
+}
+
+.right {
+  background-color: rgb(161,203,250);
+}
+
+.main-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(228, 227, 227);
+  height: 30vh;
+  width: 99vw;
+  margin-top: 15px;
+  margin-bottom: 15px ;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(228, 227, 227); 
+  height: 30vh;
+  width: 99vw;
+}

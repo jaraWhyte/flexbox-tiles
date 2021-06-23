@@ -1,0 +1,58 @@
+.overall {
+  background-color: rgb(247,247,247);
+  height: 85vh;
+  max-height: 86vh;
+  width: 90vw;
+  display: flex;
+  margin: 20px 50px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding-top: 20px; */
+}
+
+.bar {
+  background-color:rgb(161,203,250);
+  height: 50px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 3px solid rgb(85,154,229);
+}
+
+.bar-1 {
+  flex-direction: row;
+}
+
+.bar-2 {
+
+  flex-direction: column;
+}
+
+.bar-3{
+
+  flex-direction: row;
+
+}
+
+.bar-4 {
+  flex-direction: column;
+}
+
+.bar-5 {
+  flex-direction: row;
+}
+
+.barr {
+background-color: rgb(161,203,250);
+width: 250px;
+height: 50px;
+}
+
+.bab {
+background-color: rgb(161,203,250);
+width: 250px;
+height: 50px;
+}

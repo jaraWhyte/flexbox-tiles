@@ -1,0 +1,38 @@
+.overall {
+  background-color: rgb(247,247,247);
+  height: 85vh;
+  max-height: 86vh;
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 50px;
+  padding-top: 20px;
+}
+
+.bar {
+  background-color:rgb(161,203,250);
+  height: 55px;
+  border-radius: 5px;
+  border: 3px solid rgb(85,154,229);
+}
+
+.bar-1 {
+  width: 470px;
+}
+
+.bar-2 {
+  width: 590px;
+}
+
+.bar-3{
+  width: 690px;
+}
+
+.bar-4 {
+  width: 240px;
+}
+
+.bar-5 {
+  width: 360px;
+}

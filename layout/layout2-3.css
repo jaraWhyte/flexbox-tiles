@@ -1,0 +1,25 @@
+.overall {
+background-color: rgb(247,247,247);
+height: 95vh;
+max-height: 98vh;
+width: 41vw;
+max-width: 45vw;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-between;
+margin-left: auto;
+margin-right: auto;
+padding: 0px 40px;
+}
+
+.head {
+  height: 174px;
+  max-height: 174px;
+  width: 174px;
+  max-width: 174px;
+  margin: 0;
+  background-color: rgb(161,203,250);
+  position: relative;
+  margin-top: 15px;
+}
